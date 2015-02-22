@@ -16,7 +16,9 @@
 ## d) get the value of the inverse
 ##
 ## we call the function with an argument of a matrix
-## then we 
+## then we set its value using the <<- operator and set our
+## cached inverse to NULL
+## 
 
 makeCacheMatrix <- function(x = matrix()) {
 
